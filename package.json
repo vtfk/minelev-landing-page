@@ -1,0 +1,27 @@
+{
+  "name": "minelev-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtfk/minelev-landing-page.git"
+  },
+  "keywords": [],
+  "author": "Mats Andreassen <mats.andreassen@vtfk.no> (https://github.com/matsand)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vtfk/minelev-landing-page/issues"
+  },
+  "homepage": "https://github.com/vtfk/minelev-landing-page#readme",
+  "dependencies": {
+    "next": "^9.3.3",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
